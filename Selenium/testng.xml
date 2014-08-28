@@ -1,0 +1,7 @@
+<suite name ="My Suite">
+<test name="Login To Portfolio">
+   <classes>
+       <class name="TestNG.NewTest" ></class>  
+   </classes>
+</test>
+</suite>

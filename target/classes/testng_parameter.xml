@@ -1,0 +1,8 @@
+<suite name ="My Suite">
+<parameter name="first-name"  value="Cedric"/>
+<test name="Login To Portfolio">
+   <classes>
+       <class name="TestNG.TestNGParameter" ></class>  
+   </classes>
+</test>
+</suite>
