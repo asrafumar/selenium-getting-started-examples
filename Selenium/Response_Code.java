@@ -1,4 +1,4 @@
-import org.apache.http.client.fluent.Request;
+/*import org.apache.http.client.fluent.Request;
 
 
 public class Response_Code {
@@ -12,8 +12,9 @@ public class Response_Code {
 
 	}
 
-	public static boolean checkResponse(String url) {
-		
+	///public static boolean checkResponse(String url) {
+	
+		/*
 		try{
 			int resp_code = Request.Get(url).execute().returnResponse().getStatusLine().getStatusCode();
 			
@@ -27,5 +28,6 @@ public class Response_Code {
 		} catch(Exception e) {
 			return false;
 		}
-	}
-}
+		
+	//}
+}*/

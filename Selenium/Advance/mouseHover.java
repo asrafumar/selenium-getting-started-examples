@@ -3,6 +3,7 @@ package Advance;
 import org.openqa.selenium.WebElement;
 
 public class mouseHover {
+	/*
 	// find the menu that have the dropdown showing when we mouse over it.   
 	WebElement element = driver.findElement(By.linkText("Category"));
 	//Create instance of action class
@@ -24,5 +25,5 @@ WebElement subElement = driver.findElement(By.linkText("News"));
 action.moveToElement(subElement);
 action.click();
 action.perform();
-
+*/
 }

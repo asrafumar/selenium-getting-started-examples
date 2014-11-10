@@ -2,6 +2,7 @@ package Advance;
 
 public class ScrollBar {
 
+	/*
 	Actions dragger = new Actions(driver);
 	WebElement draggablePartOfScrollbar = driver.findElement(By.xpath("yourscrollbarsXpaht"));
 
@@ -20,4 +21,5 @@ public class ScrollBar {
 	  dragger.moveToElement(draggablePartOfScrollbar).clickAndHold().moveByOffset(0,numberOfPixelsToDragTheScrollbarDown).release().perform();
 	  Thread.sleep(1000L);
 	}
+	*/
 }

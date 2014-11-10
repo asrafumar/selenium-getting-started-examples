@@ -1,4 +1,4 @@
-import org.apache.http.client.fluent.Request;
+/*import org.apache.http.client.fluent.Request;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -70,3 +70,5 @@ public class Specific_Links_SecondWay {
 	}
 
 }
+
+*/

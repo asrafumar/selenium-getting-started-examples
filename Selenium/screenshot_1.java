@@ -1,4 +1,4 @@
-package day4;
+
 
 import java.io.File;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class screenshot {
+public class screenshot_1 {
 
 	/** TakesScreenshot interface & getScreenshotAs method
 	 * @param scrFile

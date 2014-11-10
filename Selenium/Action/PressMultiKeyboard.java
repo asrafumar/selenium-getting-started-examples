@@ -5,6 +5,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class PressMultiKeyboard {
 
+	/*
 	WebDriver driver =null;
 	//Using ASCII Approach
 	// ASCII code 1 for Ctrl-A
@@ -17,5 +18,7 @@ public class PressMultiKeyboard {
 	Actions kpress = new Actions(driver);
 	kpress.keyDown(driver.findElement(By.id("name")), Keys.ALT).perform(); 
 	kpress.sendKeys(driver.findElement(By.id("name")), "T").perform();
-	kpress.keyUp(driver.findElement(By.id("name")),Keys.SHIFT).perform(); 
+	kpress.keyUp(driver.findElement(By.id("name")),Keys.SHIFT).perform();
+	
+	 */
 }

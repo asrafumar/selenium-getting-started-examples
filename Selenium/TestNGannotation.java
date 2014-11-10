@@ -1,4 +1,3 @@
-package day5_TestNG;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;

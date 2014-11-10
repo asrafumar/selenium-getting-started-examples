@@ -1,3 +1,4 @@
+/*
 import java.io.File;
 import java.io.IOException;
 
@@ -20,3 +21,5 @@ public class Screenshot {
 		FileUtils.copyFile(scrFile, new File("c:\\bbc.png"));
 	}
 }
+
+*/
